@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name vuv4x2)(type KiCad)(uri ${KIPRJMOD}/vuv4x2.pretty)(options "")(descr ""))
+)
